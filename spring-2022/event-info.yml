@@ -18,7 +18,7 @@ contactNumbers:
 stages:   
 - name: Unicorn Lounge
   imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FE26FA130-C383-4DD6-B6F9-4407EEDE35EE.png?alt=media&token=37377bef-abe5-4f33-9bfd-93efd1168e3f
-  color: 0x6E4E5A
+  color: 0x546D74
 
 - name: The Hallow
   imageURL: https://firebasestorage.googleapis.com:443/v0/b/festivl.appspot.com/o/userContent%2FD0CAB6CC-E585-4A03-A0A6-575CB1FD0A3F.png?alt=media&token=99d4919c-ee3e-4964-87c4-d380da29019a
